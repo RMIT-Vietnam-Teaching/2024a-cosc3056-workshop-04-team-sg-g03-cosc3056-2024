@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15036122&assignment_repo_type=AssignmentRepo)
 #  COSC3056 Workshop 4 Starter Code
 Starter code for Workshop 4 on JDBC. This is your first look at a "bigger project" that has multiple Java files. It also uses a "simple" configuration & build system in the Maven format. This helps make sure we can configure our "big software project" so that everyone can use it.
 This example uses the Movies database from the Week 04 SQL exercises.
